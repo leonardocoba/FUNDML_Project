@@ -1,0 +1,21 @@
+# Ignore CSV training and testing data
+*.csv
+
+# Ignore saved PyTorch models
+*.pth
+
+# Ignore virtual environment folder
+venv/
+
+fresh_env/
+# Ignore Conda environment files
+*.yml
+
+# VS Code settings (optional)
+.vscode/
+
+# Jupyter notebook checkpoints (just in case)
+.ipynb_checkpoints/
+
+# macOS-specific junk
+.DS_Store
